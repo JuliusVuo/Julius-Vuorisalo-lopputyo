@@ -1,6 +1,6 @@
-# Julius-Vuorisalo-lopputyo
+# Julius-Vuorisalo-lopputyö
 
-Websivuni on aika itsestään selvä. Silla ei ole mitään erityistä aihetta, joten olen vain jaotellut erilaisia sivuja, jossa esittelen sivuni toimivuuksia.
+Websivuni on aika itsestään selvä. Sillä ei ole mitään erityistä aihetta, joten olen vain jaotellut erilaisia sivuja, jossa esittelen sivuni toimivuuksia.
 
 HTML:
 löytyy perus HTML elementtejä, rakennetta, formeja, linnkejä, mediaa, table.
